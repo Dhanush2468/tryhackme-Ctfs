@@ -246,18 +246,6 @@ What is root's flag?
 ![cat-dance-dancing-cat](https://github.com/user-attachments/assets/347157af-e081-452e-8524-43aecc5d0266)
 
 
-###  ALL FALGS ARE : 
-```
-What is Flag 1?
-THM{homebrew_password_manager}
 
-What is User2 flag?
-
-THM{homebrew_encryption_lol}
-
-What is root's flag?
-
-ThM{OpenVPN_script_pwn}
-```
 
 
