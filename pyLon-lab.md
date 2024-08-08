@@ -117,7 +117,7 @@ and the another option is for the First flag.
 ![image](https://github.com/user-attachments/assets/7947a008-2251-49d9-8bde-c8d9ed9b5b24)
 
 What is Flag 1?
-```THM{homebrew_password_manager}``` Correct Answer
+```THM{homebrew_***************}``` Correct Answer
 
 Fine let’s try to login with ssh with the password.
 ![image](https://github.com/user-attachments/assets/976a22fa-c0bd-4c5c-8bf1-352e74e2115e)
@@ -174,7 +174,7 @@ and type the password… , After this list all the files and directories we have
 
 What is User2 flag?
 
-```THM{homebrew_encryption_lol}```  Correct Answer
+```THM{homebrew_*************}```  Correct Answer
 
 Good… Well Done guys.. finally we now need to have the last flag, but we have the most important part of for penetration testing i.e Privilege escalation.
 For the flag root.txt we have to be the root user.
@@ -237,7 +237,7 @@ and type the password of pood i.e Password: ```yn0ouE9JLR3h)`=I```
 
 What is root's flag?
 
-```ThM{OpenVPN_script_pwn}``` Correct Answer
+```ThM{OpenVPN_*******}``` Correct Answer
 
 
 
